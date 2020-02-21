@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\13-Observer Desing\ObserverDesignDemo\ObserverDesignDemo\bin\Debug\ObserverDesignDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\13-Observer Desing\ObserverDesignDemo\ObserverDesignDemo\bin\Debug\ObserverDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\13-Observer Desing\ObserverDesignDemo\ObserverDesignDemo\bin\Debug\ObserverDesignDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\13-Observer Desing\ObserverDesignDemo\ObserverDesignDemo\obj\Debug\ObserverDesignDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\13-Observer Desing\ObserverDesignDemo\ObserverDesignDemo\obj\Debug\ObserverDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\13-Observer Desing\ObserverDesignDemo\ObserverDesignDemo\obj\Debug\ObserverDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\13-Observer Desing\ObserverDesignDemo\ObserverDesignDemo\obj\Debug\ObserverDesignDemo.pdb

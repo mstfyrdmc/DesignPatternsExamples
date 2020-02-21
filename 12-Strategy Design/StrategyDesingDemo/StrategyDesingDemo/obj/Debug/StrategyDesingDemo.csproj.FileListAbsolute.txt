@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\Strategy Desing\StrategyDesingDemo\StrategyDesingDemo\bin\Debug\StrategyDesingDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\Strategy Desing\StrategyDesingDemo\StrategyDesingDemo\bin\Debug\StrategyDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\Strategy Desing\StrategyDesingDemo\StrategyDesingDemo\bin\Debug\StrategyDesingDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\Strategy Desing\StrategyDesingDemo\StrategyDesingDemo\obj\Debug\StrategyDesingDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\Strategy Desing\StrategyDesingDemo\StrategyDesingDemo\obj\Debug\StrategyDesingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\Strategy Desing\StrategyDesingDemo\StrategyDesingDemo\obj\Debug\StrategyDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\Strategy Desing\StrategyDesingDemo\StrategyDesingDemo\obj\Debug\StrategyDesingDemo.pdb

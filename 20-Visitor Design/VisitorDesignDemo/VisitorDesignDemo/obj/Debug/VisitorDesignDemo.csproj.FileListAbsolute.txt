@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\20-Visitor Design\VisitorDesignDemo\VisitorDesignDemo\bin\Debug\VisitorDesignDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\20-Visitor Design\VisitorDesignDemo\VisitorDesignDemo\bin\Debug\VisitorDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\20-Visitor Design\VisitorDesignDemo\VisitorDesignDemo\bin\Debug\VisitorDesignDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\20-Visitor Design\VisitorDesignDemo\VisitorDesignDemo\obj\Debug\VisitorDesignDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\20-Visitor Design\VisitorDesignDemo\VisitorDesignDemo\obj\Debug\VisitorDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\20-Visitor Design\VisitorDesignDemo\VisitorDesignDemo\obj\Debug\VisitorDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\20-Visitor Design\VisitorDesignDemo\VisitorDesignDemo\obj\Debug\VisitorDesignDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\MultitonDesignDemo\MultitonDesignDemo\bin\Debug\MultitonDesignDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\MultitonDesignDemo\MultitonDesignDemo\bin\Debug\MultitonDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\MultitonDesignDemo\MultitonDesignDemo\bin\Debug\MultitonDesignDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\MultitonDesignDemo\MultitonDesignDemo\obj\Debug\MultitonDesignDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\MultitonDesignDemo\MultitonDesignDemo\obj\Debug\MultitonDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\MultitonDesignDemo\MultitonDesignDemo\obj\Debug\MultitonDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\MultitonDesignDemo\MultitonDesignDemo\obj\Debug\MultitonDesignDemo.pdb

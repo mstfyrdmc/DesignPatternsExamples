@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\8-Composite Desing Örnek\CompositeDesingDemo\CompositeDesingDemo\obj\Debug\CompositeDesingDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\8-Composite Desing Örnek\CompositeDesingDemo\CompositeDesingDemo\obj\Debug\CompositeDesingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\8-Composite Desing Örnek\CompositeDesingDemo\CompositeDesingDemo\bin\Debug\CompositeDesingDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\8-Composite Desing Örnek\CompositeDesingDemo\CompositeDesingDemo\bin\Debug\CompositeDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\8-Composite Desing Örnek\CompositeDesingDemo\CompositeDesingDemo\bin\Debug\CompositeDesingDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\8-Composite Desing Örnek\CompositeDesingDemo\CompositeDesingDemo\obj\Debug\CompositeDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\8-Composite Desing Örnek\CompositeDesingDemo\CompositeDesingDemo\obj\Debug\CompositeDesingDemo.pdb

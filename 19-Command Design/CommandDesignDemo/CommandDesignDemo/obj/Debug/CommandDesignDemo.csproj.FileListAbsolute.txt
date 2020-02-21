@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\19-Command Design\CommandDesignDemo\CommandDesignDemo\bin\Debug\CommandDesignDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\19-Command Design\CommandDesignDemo\CommandDesignDemo\bin\Debug\CommandDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\19-Command Design\CommandDesignDemo\CommandDesignDemo\bin\Debug\CommandDesignDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\19-Command Design\CommandDesignDemo\CommandDesignDemo\obj\Debug\CommandDesignDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\19-Command Design\CommandDesignDemo\CommandDesignDemo\obj\Debug\CommandDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\19-Command Design\CommandDesignDemo\CommandDesignDemo\obj\Debug\CommandDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\19-Command Design\CommandDesignDemo\CommandDesignDemo\obj\Debug\CommandDesignDemo.pdb

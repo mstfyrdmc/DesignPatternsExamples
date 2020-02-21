@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\17-State Design\StateDesignDemo\StateDesignDemo\bin\Debug\StateDesignDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\17-State Design\StateDesignDemo\StateDesignDemo\bin\Debug\StateDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\17-State Design\StateDesignDemo\StateDesignDemo\bin\Debug\StateDesignDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\17-State Design\StateDesignDemo\StateDesignDemo\obj\Debug\StateDesignDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\17-State Design\StateDesignDemo\StateDesignDemo\obj\Debug\StateDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\17-State Design\StateDesignDemo\StateDesignDemo\obj\Debug\StateDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\17-State Design\StateDesignDemo\StateDesignDemo\obj\Debug\StateDesignDemo.pdb

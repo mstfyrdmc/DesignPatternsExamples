@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\7-Adapter Desing Örnek\AdapterDesingDemo\AdapterDesingDemo\obj\Debug\AdapterDesingDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\7-Adapter Desing Örnek\AdapterDesingDemo\AdapterDesingDemo\obj\Debug\AdapterDesingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\7-Adapter Desing Örnek\AdapterDesingDemo\AdapterDesingDemo\bin\Debug\AdapterDesingDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\7-Adapter Desing Örnek\AdapterDesingDemo\AdapterDesingDemo\bin\Debug\AdapterDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\7-Adapter Desing Örnek\AdapterDesingDemo\AdapterDesingDemo\bin\Debug\AdapterDesingDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\7-Adapter Desing Örnek\AdapterDesingDemo\AdapterDesingDemo\obj\Debug\AdapterDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\7-Adapter Desing Örnek\AdapterDesingDemo\AdapterDesingDemo\obj\Debug\AdapterDesingDemo.pdb

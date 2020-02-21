@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Singleton Desing Pattern Örnek\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\SingletonPatternDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Singleton Desing Pattern Örnek\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\SingletonPatternDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Singleton Desing Pattern Örnek\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\SingletonPatternDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Singleton Desing Pattern Örnek\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\SingletonPatternDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Singleton Desing Pattern Örnek\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\SingletonPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Singleton Desing Pattern Örnek\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\SingletonPatternDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Singleton Desing Pattern Örnek\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\SingletonPatternDemo.pdb

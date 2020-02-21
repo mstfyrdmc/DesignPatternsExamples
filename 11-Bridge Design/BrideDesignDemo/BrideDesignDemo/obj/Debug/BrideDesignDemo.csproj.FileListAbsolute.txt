@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\11-Bridge Desing\BrideDesignDemo\BrideDesignDemo\bin\Debug\BrideDesignDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\11-Bridge Desing\BrideDesignDemo\BrideDesignDemo\bin\Debug\BrideDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\11-Bridge Desing\BrideDesignDemo\BrideDesignDemo\bin\Debug\BrideDesignDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\11-Bridge Desing\BrideDesignDemo\BrideDesignDemo\obj\Debug\BrideDesignDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\11-Bridge Desing\BrideDesignDemo\BrideDesignDemo\obj\Debug\BrideDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\11-Bridge Desing\BrideDesignDemo\BrideDesignDemo\obj\Debug\BrideDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\11-Bridge Desing\BrideDesignDemo\BrideDesignDemo\obj\Debug\BrideDesignDemo.pdb

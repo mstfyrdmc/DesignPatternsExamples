@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\16-Template Method Design\TemplateMethodDemo\TemplateMethodDemo\obj\Debug\TemplateMethodDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\16-Template Method Design\TemplateMethodDemo\TemplateMethodDemo\obj\Debug\TemplateMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\16-Template Method Design\TemplateMethodDemo\TemplateMethodDemo\bin\Debug\TemplateMethodDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\16-Template Method Design\TemplateMethodDemo\TemplateMethodDemo\bin\Debug\TemplateMethodDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\16-Template Method Design\TemplateMethodDemo\TemplateMethodDemo\bin\Debug\TemplateMethodDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\16-Template Method Design\TemplateMethodDemo\TemplateMethodDemo\obj\Debug\TemplateMethodDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\16-Template Method Design\TemplateMethodDemo\TemplateMethodDemo\obj\Debug\TemplateMethodDemo.pdb

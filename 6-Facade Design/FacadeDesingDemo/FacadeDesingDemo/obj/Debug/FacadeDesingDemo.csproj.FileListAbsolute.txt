@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\6-Facade Desing Örnek\FacadeDesingDemo\FacadeDesingDemo\bin\Debug\FacadeDesingDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\6-Facade Desing Örnek\FacadeDesingDemo\FacadeDesingDemo\bin\Debug\FacadeDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\6-Facade Desing Örnek\FacadeDesingDemo\FacadeDesingDemo\bin\Debug\FacadeDesingDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\6-Facade Desing Örnek\FacadeDesingDemo\FacadeDesingDemo\obj\Debug\FacadeDesingDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\6-Facade Desing Örnek\FacadeDesingDemo\FacadeDesingDemo\obj\Debug\FacadeDesingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\6-Facade Desing Örnek\FacadeDesingDemo\FacadeDesingDemo\obj\Debug\FacadeDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\6-Facade Desing Örnek\FacadeDesingDemo\FacadeDesingDemo\obj\Debug\FacadeDesingDemo.pdb

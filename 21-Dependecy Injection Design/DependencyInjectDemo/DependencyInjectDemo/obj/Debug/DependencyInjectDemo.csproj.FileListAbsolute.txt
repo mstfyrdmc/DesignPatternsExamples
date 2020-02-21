@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DependencyInjectDemo\bin\Debug\DependencyInjectDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DependencyInjectDemo\bin\Debug\DependencyInjectDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DependencyInjectDemo\bin\Debug\DependencyInjectDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DependencyInjectDemo\obj\Debug\DependencyInjectDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DependencyInjectDemo\obj\Debug\DependencyInjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DependencyInjectDemo\obj\Debug\DependencyInjectDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DependencyInjectDemo\obj\Debug\DependencyInjectDemo.pdb

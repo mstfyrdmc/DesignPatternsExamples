@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\15-Memento Design\MementoDesignDemo\MementoDesignDemo\bin\Debug\MementoDesignDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\15-Memento Design\MementoDesignDemo\MementoDesignDemo\bin\Debug\MementoDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\15-Memento Design\MementoDesignDemo\MementoDesignDemo\bin\Debug\MementoDesignDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\15-Memento Design\MementoDesignDemo\MementoDesignDemo\obj\Debug\MementoDesignDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\15-Memento Design\MementoDesignDemo\MementoDesignDemo\obj\Debug\MementoDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\15-Memento Design\MementoDesignDemo\MementoDesignDemo\obj\Debug\MementoDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\15-Memento Design\MementoDesignDemo\MementoDesignDemo\obj\Debug\MementoDesignDemo.pdb

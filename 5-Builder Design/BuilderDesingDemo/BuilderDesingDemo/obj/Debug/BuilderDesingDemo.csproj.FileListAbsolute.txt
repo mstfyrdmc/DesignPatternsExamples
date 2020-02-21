@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\5-Builder Desing Örnek\BuilderDesingDemo\BuilderDesingDemo\obj\Debug\BuilderDesingDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\5-Builder Desing Örnek\BuilderDesingDemo\BuilderDesingDemo\obj\Debug\BuilderDesingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\5-Builder Desing Örnek\BuilderDesingDemo\BuilderDesingDemo\bin\Debug\BuilderDesingDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\5-Builder Desing Örnek\BuilderDesingDemo\BuilderDesingDemo\bin\Debug\BuilderDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\5-Builder Desing Örnek\BuilderDesingDemo\BuilderDesingDemo\bin\Debug\BuilderDesingDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\5-Builder Desing Örnek\BuilderDesingDemo\BuilderDesingDemo\obj\Debug\BuilderDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\5-Builder Desing Örnek\BuilderDesingDemo\BuilderDesingDemo\obj\Debug\BuilderDesingDemo.pdb

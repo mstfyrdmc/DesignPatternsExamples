@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DI_IoC_Container\bin\Debug\DI_IoC_Container.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DI_IoC_Container\bin\Debug\DI_IoC_Container.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DI_IoC_Container\bin\Debug\DI_IoC_Container.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DI_IoC_Container\obj\Debug\DI_IoC_Container.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DI_IoC_Container\obj\Debug\DI_IoC_Container.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DI_IoC_Container\obj\Debug\DI_IoC_Container.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\21-Dependecy Injection Design\DependencyInjectDemo\DI_IoC_Container\obj\Debug\DI_IoC_Container.pdb

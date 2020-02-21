@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\4-Prototype Desing Örnek\PrototypeDesignDemo\PrototypeDesignDemo\bin\Debug\PrototypeDesignDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\4-Prototype Desing Örnek\PrototypeDesignDemo\PrototypeDesignDemo\bin\Debug\PrototypeDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\4-Prototype Desing Örnek\PrototypeDesignDemo\PrototypeDesignDemo\bin\Debug\PrototypeDesignDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\4-Prototype Desing Örnek\PrototypeDesignDemo\PrototypeDesignDemo\obj\Debug\PrototypeDesignDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\4-Prototype Desing Örnek\PrototypeDesignDemo\PrototypeDesignDemo\obj\Debug\PrototypeDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\4-Prototype Desing Örnek\PrototypeDesignDemo\PrototypeDesignDemo\obj\Debug\PrototypeDesignDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\4-Prototype Desing Örnek\PrototypeDesignDemo\PrototypeDesignDemo\obj\Debug\PrototypeDesignDemo.pdb

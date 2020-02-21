@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\9-Proxy Design Örnek\ProxyDesingDemo\ProxyDesingDemo\bin\Debug\ProxyDesingDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\9-Proxy Design Örnek\ProxyDesingDemo\ProxyDesingDemo\bin\Debug\ProxyDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\9-Proxy Design Örnek\ProxyDesingDemo\ProxyDesingDemo\bin\Debug\ProxyDesingDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\9-Proxy Design Örnek\ProxyDesingDemo\ProxyDesingDemo\obj\Debug\ProxyDesingDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\9-Proxy Design Örnek\ProxyDesingDemo\ProxyDesingDemo\obj\Debug\ProxyDesingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\9-Proxy Design Örnek\ProxyDesingDemo\ProxyDesingDemo\obj\Debug\ProxyDesingDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\9-Proxy Design Örnek\ProxyDesingDemo\ProxyDesingDemo\obj\Debug\ProxyDesingDemo.pdb

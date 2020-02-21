@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\3-Abstract Factory Desing Örnek\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\3-Abstract Factory Desing Örnek\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\3-Abstract Factory Desing Örnek\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\3-Abstract Factory Desing Örnek\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\3-Abstract Factory Desing Örnek\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\3-Abstract Factory Desing Örnek\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\Desing Pattern Examples\3-Abstract Factory Desing Örnek\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.pdb

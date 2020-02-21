@@ -1,0 +1,7 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\18-Mediator Design\MediatorDesignDemo1\MediatorDesignDemo1\bin\Debug\MediatorDesignDemo1.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\18-Mediator Design\MediatorDesignDemo1\MediatorDesignDemo1\bin\Debug\MediatorDesignDemo1.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\18-Mediator Design\MediatorDesignDemo1\MediatorDesignDemo1\bin\Debug\MediatorDesignDemo1.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\18-Mediator Design\MediatorDesignDemo1\MediatorDesignDemo1\obj\Debug\MediatorDesignDemo1.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\18-Mediator Design\MediatorDesignDemo1\MediatorDesignDemo1\obj\Debug\MediatorDesignDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\18-Mediator Design\MediatorDesignDemo1\MediatorDesignDemo1\obj\Debug\MediatorDesignDemo1.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy eğitim uygulamaları\3-Desing Pattern Examples\18-Mediator Design\MediatorDesignDemo1\MediatorDesignDemo1\obj\Debug\MediatorDesignDemo1.pdb
